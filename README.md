@@ -1,6 +1,6 @@
-# Drink Water(Jal lijiye)
+# Check blood sugar
 
-Drink Water(Jal lijiye) is a chrome extenstion that will remind you to drink water after every 20 minutes.
+Check blood sugar is chrome extention that will remind you to check blood sugar after every 2 hours.
 
 ![Demo Photo](./banner.jpg)
 
