@@ -1,6 +1,6 @@
 # Check blood sugar
 
-Check blood sugar is chrome extention that will remind you to check blood sugar after every 2 hours.
+Check blood sugar is chrome extension that will remind you to check blood sugar after every 2 hours.
 
 ![Demo Photo](./banner.jpg)
 
